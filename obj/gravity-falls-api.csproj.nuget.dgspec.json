@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatim\\documents\\hipermedia\\gravity-falls-api\\gravity-falls-api.csproj": {}
+    "C:\\Users\\fatim\\Documents\\Hipermedia\\gravity-falls-api\\gravity-falls-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatim\\documents\\hipermedia\\gravity-falls-api\\gravity-falls-api.csproj": {
+    "C:\\Users\\fatim\\Documents\\Hipermedia\\gravity-falls-api\\gravity-falls-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatim\\documents\\hipermedia\\gravity-falls-api\\gravity-falls-api.csproj",
+        "projectUniqueName": "C:\\Users\\fatim\\Documents\\Hipermedia\\gravity-falls-api\\gravity-falls-api.csproj",
         "projectName": "gravity-falls-api",
-        "projectPath": "C:\\Users\\fatim\\documents\\hipermedia\\gravity-falls-api\\gravity-falls-api.csproj",
+        "projectPath": "C:\\Users\\fatim\\Documents\\Hipermedia\\gravity-falls-api\\gravity-falls-api.csproj",
         "packagesPath": "C:\\Users\\fatim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatim\\documents\\hipermedia\\gravity-falls-api\\obj\\",
+        "outputPath": "C:\\Users\\fatim\\Documents\\Hipermedia\\gravity-falls-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Microsoft\\Xamarin\\NuGet\\"
